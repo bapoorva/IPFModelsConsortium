@@ -1,1 +1,7 @@
-# IPFModelsConsortium
+# IPF Models Consortium
+The Idiopathic Pulmonary Fibrosis Consortium is a group of 5 research labs working together to develop pre-clinical models of IPF, a chronic lung disease
+
+# Why are pre-clinical model of idiopathic pulmonary fibrosis important?
+Idiopathic pulmonary fibrosis (IPF) is a chronic and progressive condition that remains challenging to clinically manage and there is a critical and unmet need for the development of novel therapeutic treatments for severe forms of the disease as the median survival rate is only 3-5 years. The lack of effective treatment options is fueled by the absence of pre-clinical models that can faithfully replicate the complexity of IPF pathogenesis and/or disease progression. Given that no single model system is likely able to reproduce the diverse characteristics of human IPF, the overall goals of this consortium were to develop a network of interrelated collaborative research projects, culminating in the establishment of a suite of complementary and robustly tested model systems to reproduce essential disease-defining features of IPF. Methodologies developed under this program will advance our understanding of the development of IPF from its onset through disease progression and serve as a resource for the broader research community including investigators testing novel therapies to treat this disease.
+
+# For more information, visit out website https://ipfmodelsconsortium.org/
